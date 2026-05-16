@@ -1,0 +1,19 @@
+# Generados automáticamente
+dist/
+src/manifest.json
+
+# Compilados
+*.zip
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
